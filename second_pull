@@ -1,8 +1,6 @@
-helo
-asdfas
-fsadf
-sad
-fas
-dfsa
-f
-as
+total 16
+-rw-r--r--. 1 ec2-user ec2-user 29 Aug 13 08:47 b1.txt
+-rw-r--r--. 1 ec2-user ec2-user 51 Aug 13 08:47 pull_check
+-rw-r--r--. 1 ec2-user ec2-user  8 Aug 13 08:17 README.md
+-rw-r--r--. 1 ec2-user ec2-user 32 Aug 13 08:47 script.txt
+-rw-r--r--. 1 ec2-user ec2-user  0 Aug 13 08:48 second_pull
